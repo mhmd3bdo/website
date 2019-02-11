@@ -160,6 +160,7 @@ These clients are compatible with our [staging endpoint for ACME v2](https://com
 - [ACMEproxy](https://github.com/catalyst/acmeproxy)
 - [acme-dns-tiny](https://acme-dns-tiny.adorsaz.ch) (Python 3)
 - [acme-nosudo](https://github.com/diafygi/acme-nosudo)
+- [le-opensrs](https://github.com/mhmd3bdo/le-opensrs)
 
 ## Ruby
 
